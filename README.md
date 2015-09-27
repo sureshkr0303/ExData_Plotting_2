@@ -1,4 +1,5 @@
 # ExData_Plotting_2
+<<<<<<< HEAD
 •Introduction
 
 Fine particulate matter (PM_{2.5}) is an ambient air pollutant for which there is strong evidence that it is harmful to human health. In the United States, the Environmental Protection Agency (EPA) is tasked with setting national ambient air quality standards for fine PM and for tracking the emissions of this pollutant into the atmosphere. Approximatly every 3 years, the EPA releases its database on emissions of PM_{2.5}. This database is known as the National Emissions Inventory (NEI). You can read more information about the NEI at the [[http://www.epa.gov/ttn/chief/eiinformation.html][EPA National Emissions Inventory web site]].
@@ -40,3 +41,5 @@ Compare emissions from motor vehicle sources in Baltimore City with emissions fr
 
 [[./plot6.png]]
 
+=======
+>>>>>>> 6d8323c4e8433c4869e43d45a4bbb58e5f4532c0
